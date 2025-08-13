@@ -1,1 +1,1 @@
-# 2-Bit-Counter-Design-and-Physical-Layout-Implementation-on-Microwind
+# 2-Bit-Counter-Design-and-Physical-Layout-Implementation
